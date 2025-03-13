@@ -77,6 +77,8 @@ Can use this query to make specific position-based betting decisions
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/404e183e-6690-4440-bffa-0c981567f3ef" />
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/b7cb0a07-d6b9-47c7-a5a1-d0e232978103" />
 
+6. Query #6: Best Players by Team (Based on Touchdowns)
+   <img width="445" alt="Screenshot 2025-03-13 at 6 47 21 PM" src="https://github.com/user-attachments/assets/aea4e44f-b1e9-4ef5-96b6-c8b31cf1a0a9" />
 
 
 (((((((((1. Query 1 displays the category name and its corresponding aisle number. The results are ordered by aisle numbers in ascending order.
