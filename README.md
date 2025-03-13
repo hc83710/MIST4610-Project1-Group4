@@ -4,11 +4,11 @@
 61608 Group 4
 
 ## Team Members:
-1. An, Ben [@JennieC044](https://github.com/JennieC044)
-2. Burt, Keegan [@NickFer5](https://github.com/NickFer5)
-3. Cheng, Hsin [@hc83710](https://github.com/eglawler03)
-4. Cho, Nick [@ShawnPham21](https://github.com/ShawnPham21)
-5. Shield, David [@roshnisadalge07](https://github.com/roshnisadalge07)
+1. An, Ben [)
+2. Burt, Keegan [@keeganburt24]()
+3. Cheng, Hsin [@hc83710]()
+4. Cho, Nick [@nichooo4]()
+5. Shields, David [)
 
 ## Problem Description:
 Scenario: a sports betting platform where users can analyze statistics before placing wagers on teams or players
