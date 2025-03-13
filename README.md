@@ -78,6 +78,8 @@ Can use this query to make specific position-based betting decisions
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/b7cb0a07-d6b9-47c7-a5a1-d0e232978103" />
 
 6. Query #6: Best Players by Team (Based on Touchdowns)
+   This query helps managers, coaches, and analysts identify the best-performing player (highest touchdowns) from each team. This is crucial for awards, player evaluations, and strategy planning.
+   
    <img width="445" alt="Screenshot 2025-03-13 at 6 47 21 PM" src="https://github.com/user-attachments/assets/aea4e44f-b1e9-4ef5-96b6-c8b31cf1a0a9" />
 
 
