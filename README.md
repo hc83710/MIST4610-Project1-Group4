@@ -73,35 +73,8 @@ The query ranks positions by their average yards per season. It is important for
 
 
 
-6. Query 6 outputs the product name of products that were sold a total of less than two times.
-
-![query6](https://github.com/user-attachments/assets/b583f152-9b3e-4e5d-bb40-35784b32b077)
-
-The information provided by this query can let a manager decide what products are not as popular or are not selling as well as other products within the grocery store. This can help them when they need to put in orders for new inventory and if they want to purchase the low-selling products again. This can also help managers make decisions about promotions and price cuts. 
-
-7. Query 7 shows all brand names and the corresponding contact emails for brands that have sold a total of at least four products, ordered in descending order. 
-
-![query7](https://github.com/user-attachments/assets/13964846-ec2d-4eb6-8684-eae34b4ee43f)
-
-Managers have the ability to see what brands are the highest performing in the grocery store and who to contact if they want to communicate with them to place more orders with the brand. The total number of products sold are ordered from highest to lowest so managers can see the most popular brand at the top of the list. 
-
-8. Query 8 displays the category name, the amount of revenue the category generates, and the percentage of revenue that category makes up. 
-
-![query8](https://github.com/user-attachments/assets/36708902-deae-49e0-90d7-b3580fc34485)
-
-By showing category revenue and its corresponding percentage, grocery store managers can identify which categories are doing the best in terms of revenue and which categories are not producing as much revenue. Managers could find which categories to work on and develop, such as ordering new products, in order to generate more revenue. Results are ordered by the amount of revenue made from highest to lowest so managers can clearly identify the top category.
-
-9. Query 9 retrieves all products and their respective brand names. 
-
-![query9](https://github.com/user-attachments/assets/9b29694d-db8d-4e10-b792-39e2a73f3021)
-
-This query allows managers can get a comprehensive list of products along with their associated brand names. This information allows managers to review the current product lineup and understand which brands are most represented in the inventory.
-
-10. Query 10 lists all sales transactions and dates with the corresponding names of the employees who processed those transactions.
-
-![query10](https://github.com/user-attachments/assets/14ebdbc8-f3ea-4d4d-9d95-db7342f272bc)
-
-For grocery store managers, this query is helpful in tracking which employees are handling specific transactions, making it easier to monitor sales performance, manage employee accountability, and identify transaction trends across different staff members.
+7. Query #7: Get the Total Wins and Losses for Each Team
+The query returns the total wins and losses for every team in the last season, ranked by wins. This query provides quick access to top-performing teams, which is useful for moneyline bets made at the last minute.
 
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
