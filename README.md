@@ -5,9 +5,9 @@
 
 ## Team Members:
 1. An, Ben 
-2. Burt, Keegan 
-3. Cheng, Hsin [@hc83710]()
-4. Cho, Nick 
+2. Burt, Keegan[@keeganburt24](https://github.com/keeganburt24)
+3. Cheng, Hsin [@hc83710](https://github.com/hc83710)
+4. Cho, Nick [@nichooo4](https://github.com/nichooo4)
 5. Shields, David 
 
 ## Problem Description:
