@@ -38,16 +38,12 @@ Finally, Employee has a one-to-many relationship with the Sales Transaction enti
 
 ## Queries:
 1. Query 1: Heisman Odds
-   The betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy
-Identifies top non-senior players based on total yards and touchdowns to help:
- 1. Predicts the best Heisman Trophy candidates   to bet on for next season
- 2. Highlights rising stars with standout                       performances
+The Heisman Odds are betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy. This query identifies top non-senior players based on total yards and touchdowns to help predict the best Heisman Trophy candidates to bet on for next season. Additionally. it highlights rising stars with standout performances.
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/a2d33dec-a51b-416d-b2f9-269abfadfb81" />
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/c73c9138-037f-4c48-9a4f-c96d47387883" />
 
 2. Query #2: Potentials of Coaches
-Ranks coaches by win percentage, calculated from total number of wins divided by total number of games (wins + loses)
-Identifies coaches that possess strong leadership skills and winning track records to help bettors make smarter wagers on game outcomes.
+Ranks coaches by win percentage, calculated from total number of wins divided by total number of games (wins + loses). Identifies coaches that possess strong leadership skills and winning track records to help bettors make smarter wagers on game outcomes.
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/a63399bd-14b3-4bf1-be2f-92057f130f6a" />
 <img width="624" alt="image" src="https://github.com/user-attachments/assets/ecfe668e-10fc-4301-bfe0-5acc42ad5c78" />
 
@@ -60,6 +56,7 @@ Sums touchdowns from individual players to reflect which teams have standout off
 ![image](https://github.com/user-attachments/assets/a8b6017e-c509-4e3f-a0fb-18dc89af5e85)
 
 4. Query #4: Conference Championships
+The query provides insight to which teams are likely to win the conference championship​Important for bettors to more accurately predict the outcomes of each conference championship​
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/b41a878d-b923-4d91-9258-aeb3d887bd9b" />
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/8f4bc752-1b3a-44c1-9c46-b97c63b182bd" />
 
@@ -134,6 +131,6 @@ For grocery store managers, this query is helpful in tracking which employees ar
 
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
-Name of the database: ha_group7
+Name of the database: ha_group4
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
