@@ -8,7 +8,7 @@
 2. Burt, Keegan 
 3. Cheng, Hsin [@hc83710]()
 4. Cho, Nick 
-5. Shield, David 
+5. Shields, David 
 
 ## Problem Description:
 Scenario: a sports betting platform where users can analyze statistics before placing wagers on teams or players
