@@ -39,30 +39,30 @@ Finally, Employee has a one-to-many relationship with the Sales Transaction enti
 ## Queries:
 1. Query 1: Heisman Odds. 
 The Heisman Odds are betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy. This query identifies top non-senior players based on total yards and touchdowns to help predict the best Heisman Trophy candidates to bet on for next season. Additionally. it highlights rising stars with standout performances.
-<img width="335" alt="image" src="https://github.com/user-attachments/assets/a2d33dec-a51b-416d-b2f9-269abfadfb81" />
-<img width="459" alt="image" src="https://github.com/user-attachments/assets/c73c9138-037f-4c48-9a4f-c96d47387883" />
+![image](https://github.com/user-attachments/assets/a2d33dec-a51b-416d-b2f9-269abfadfb81)
+![image](https://github.com/user-attachments/assets/c73c9138-037f-4c48-9a4f-c96d47387883)
 
 2. Query #2: Potentials of Coaches.
 The query ranks coaches by winning percentage, which is calculated from total number of wins divided by total number of games (wins + loses). In doing so, it identifies coaches that possess strong leadership skills and winning track records to help bettors make smarter wagers on game outcomes.
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/a63399bd-14b3-4bf1-be2f-92057f130f6a" />
-<img width="624" alt="image" src="https://github.com/user-attachments/assets/ecfe668e-10fc-4301-bfe0-5acc42ad5c78" />
+![image](https://github.com/user-attachments/assets/a63399bd-14b3-4bf1-be2f-92057f130f6a)
+![image](https://github.com/user-attachments/assets/ecfe668e-10fc-4301-bfe0-5acc42ad5c78)
 
 3. Query #3: Best Offensive Teams.
-Total touchdowns are a strong indicator of offensive strength; the highest-ranked teams in this result likely have the most productive offenses. The query ranks teams based on the total touchdowns scored by their players to reflect which teams have standout offensive players, ensuring the best teams to appear at the top of the query result. 
+Total touchdowns are a strong indicator of offensive strength. The highest-ranked teams in total touchdowns is likely to have the most productive offenses. The query ranks teams based on the total touchdowns scored by their players to reflect which teams have standout offensive players. It also ensures that the best teams appears at the top of the query result. 
 ![image](https://github.com/user-attachments/assets/c1bff08b-2828-4c19-a67c-bee631dafc36)
 ![image](https://github.com/user-attachments/assets/a8b6017e-c509-4e3f-a0fb-18dc89af5e85)
 
 4. Query #4: Conference Championships
-The query provides insight to which teams are likely to win the conference championship​Important for bettors to more accurately predict the outcomes of each conference championship​
-<img width="321" alt="image" src="https://github.com/user-attachments/assets/b41a878d-b923-4d91-9258-aeb3d887bd9b" />
-<img width="704" alt="image" src="https://github.com/user-attachments/assets/8f4bc752-1b3a-44c1-9c46-b97c63b182bd" />
+The query provides insight of teams that are likely to win the conference championship. This is important for bettors to accurately predict the outcomes of each conference championship. ​
+![image](https://github.com/user-attachments/assets/b41a878d-b923-4d91-9258-aeb3d887bd9b)
+![image](https://github.com/user-attachments/assets/8f4bc752-1b3a-44c1-9c46-b97c63b182bd)
 
 5. Query #5: Average Yards/TDs per Position
    Ranks positions by their average yards per season
 Important for bettors to decide which position to bet on in an upcoming game
 Can use this query to make specific position-based betting decisions
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/404e183e-6690-4440-bffa-0c981567f3ef" />
-<img width="611" alt="image" src="https://github.com/user-attachments/assets/b7cb0a07-d6b9-47c7-a5a1-d0e232978103" />
+![image](https://github.com/user-attachments/assets/404e183e-6690-4440-bffa-0c981567f3ef)
+![image](https://github.com/user-attachments/assets/b7cb0a07-d6b9-47c7-a5a1-d0e232978103)
 
 
 
