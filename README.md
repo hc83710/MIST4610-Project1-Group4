@@ -67,6 +67,11 @@ The query ranks positions by their average yards per season. It is important for
 ![Query5](https://github.com/user-attachments/assets/404e183e-6690-4440-bffa-0c981567f3ef)
 ![Query5](https://github.com/user-attachments/assets/b7cb0a07-d6b9-47c7-a5a1-d0e232978103)
 
+6. Query #6: Best Players by Team (Based on Touchdowns)
+![Query6](https://github.com/user-attachments/assets/74e3b84d-26e7-4c0c-976d-129a4a6e869b)
+![Query6](https://github.com/user-attachments/assets/55e01a62-a4c8-4e2e-b52e-65970e38541f)
+
+
 
 6. Query 6 outputs the product name of products that were sold a total of less than two times.
 
@@ -100,6 +105,6 @@ For grocery store managers, this query is helpful in tracking which employees ar
 
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
-Name of the database: ha_group4
+Name of the database: ha_group4_crn61608
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
