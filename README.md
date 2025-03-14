@@ -25,15 +25,15 @@ When it comes to the Sales Transaction entity, this is connected to the Product 
 
 Finally, Employee has a one-to-many relationship with the Sales Transaction entity. Employees could have worked at plenty of sales transactions, but a sales transaction can only have one employee. The Employee entity and its relationships are used to track which employees are working which sales, allowing the grocery store to have input on its employees.))))))
 
-![database](https://github.com/user-attachments/assets/a2e4bf50-2e38-4a40-92ce-d02d03172aee)
+![Data_Model](https://github.com/user-attachments/assets/a2e4bf50-2e38-4a40-92ce-d02d03172aee)
 
 
 ## Data Dictionary:
-<img width="600" alt="Screenshot 2025-03-11 at 10 21 27 PM" src="https://github.com/user-attachments/assets/47eb73a7-5864-40f7-b4e3-c04a5045aceb" />
-<img width="601" alt="Screenshot 2025-03-11 at 10 21 41 PM" src="https://github.com/user-attachments/assets/6ee9fd21-6ef8-422a-ba4a-3fcd4a28619b" />
-<img width="613" alt="Screenshot 2025-03-11 at 10 21 54 PM" src="https://github.com/user-attachments/assets/5f5f88e1-2fc2-4668-98f4-7bbcc1c0d9b2" />
-<img width="603" alt="Screenshot 2025-03-11 at 10 22 07 PM" src="https://github.com/user-attachments/assets/8fa9e2f5-b76e-4c3a-9e5c-13b557bf2753" />
-<img width="610" alt="Screenshot 2025-03-11 at 10 22 23 PM" src="https://github.com/user-attachments/assets/1fb3cbed-8150-41da-bf8c-0181117013ea" />
+![Data_Dictionary](https://github.com/user-attachments/assets/47eb73a7-5864-40f7-b4e3-c04a5045aceb)
+![Data_Dictionary](https://github.com/user-attachments/assets/6ee9fd21-6ef8-422a-ba4a-3fcd4a28619b)
+![Data_Dictionary](https://github.com/user-attachments/assets/5f5f88e1-2fc2-4668-98f4-7bbcc1c0d9b2)
+![Data_Dictionary](https://github.com/user-attachments/assets/8fa9e2f5-b76e-4c3a-9e5c-13b557bf2753)
+![Data_Dictionary](https://github.com/user-attachments/assets/1fb3cbed-8150-41da-bf8c-0181117013ea)
 
 
 ## Queries:
