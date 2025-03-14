@@ -25,7 +25,7 @@ When it comes to the Sales Transaction entity, this is connected to the Product 
 
 Finally, Employee has a one-to-many relationship with the Sales Transaction entity. Employees could have worked at plenty of sales transactions, but a sales transaction can only have one employee. The Employee entity and its relationships are used to track which employees are working which sales, allowing the grocery store to have input on its employees.))))))
 
-<img width="623" alt="image" src="https://github.com/user-attachments/assets/a2e4bf50-2e38-4a40-92ce-d02d03172aee" />
+![database](https://github.com/user-attachments/assets/a2e4bf50-2e38-4a40-92ce-d02d03172aee)
 
 
 ## Data Dictionary:
