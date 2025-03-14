@@ -80,6 +80,9 @@ The query returns the total wins and losses for every team in the last season, r
 ![Query7](https://github.com/user-attachments/assets/e52ae8f2-efd8-4150-a3ae-f36d8f052cc3)
 
 
+8. Query #8: Finding Conferences with the Most Total Wins Across All Teams
+The query calculates the total number of wins per conference by summing up the wins of all teams in each conference. Teams from high-win conferences typically face tougher competition, affecting point spreads and totals.
+
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
 Name of the database: ha_group4_crn61608
