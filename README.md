@@ -72,9 +72,12 @@ The query ranks positions by their average yards per season. It is important for
 ![Query6](https://github.com/user-attachments/assets/55e01a62-a4c8-4e2e-b52e-65970e38541f)
 
 
-
 7. Query #7: Get the Total Wins and Losses for Each Team
 The query returns the total wins and losses for every team in the last season, ranked by wins. This query provides quick access to top-performing teams, which is useful for moneyline bets made at the last minute.
+![Query7](https://github.com/user-attachments/assets/e52ae8f2-efd8-4150-a3ae-f36d8f052cc3)
+![Query7](https://github.com/user-attachments/assets/82372654-6d63-4414-b0e9-8b5b603a2e9f)
+
+
 
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
