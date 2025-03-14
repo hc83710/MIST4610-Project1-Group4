@@ -11,15 +11,8 @@
 5. Shields, David 
 
 ## Problem Description:
-Scenario: a sports betting platform where users can analyze statistics before placing wagers on teams or players
-Reasoning: utilizing advantages of data and information systems, we replace the uncertainty of gut feeling by objective, accurate, informative, and integrated tables for bettors to visualize waging factors
-Purposes: to track and visualize relationships between teams, coaches, conferences, games, players, and players' statistics to better apply to winning money via sports bets
-Functions:
-Calculates and presents betting odds based on player statistics
-Comparisons on team performances to conclude conference standings
-Tailored betting (e.g. Best offensive teams)
+Our database system is designed to support a sports betting platform where users can analyze statistics before placing wagers on teams or players. Utilizing advantages of data and information systems, we replace the uncertainty of gut feeling with objective, accurate, informative, and integrated tables for bettors to visualize waging factors. The database system has the ability to track and visualize relationships between teams, coaches, conferences, games, players, and players' statistics to better apply to winning money via sports bets. Examples of ways to achieve this function include: 1. calculates and presents betting odds based on player statistics, 2. comparisons on team performances to conclude conference standings, and 3. tailored betting (e.g. Best offensive teams)
 
-((((((((Our Grocery Store Database depicts a database system to streamline the operations of a Grocery Store business. This database facilitates the management of key functions such as inventory control, sales tracking, products and brands, and employee management. Within this centralized data system, out database enhances operational efficiency, improves data accuracy, and provide valuable insights for informed decision-making for Grocery Store Management. Ultimately, the Grocery Store Database supports the store's goal of delivering an exceptional shopping experience while optimizing resources and maximizing profitability.)))))))
 
 ## Data Model:
 ((((((((This data model showcases a grocery store's operational data, including products, inventory, sales transactions, and employee details. The Product entity is linked to both Category and Brand, allowing for the organization of products by type (e.g., dairy, beverages) and tracking of the brand of the products. The Inventory entity tracks product stock levels, restock quantities, and dates, ensuring that the store remains well-supplied. Sales data is captured through two interconnected tables: Sales Transaction, which logs overall transaction details like payment type and total price, and Sales Transaction Details, which records the specific products and quantity sold in each transaction. Lastly, the Employee entity connects staff members to the sales they process, supporting workforce management and performance tracking. The relationships between these entities ensure comprehensive data storage for managing day-to-day operations.
