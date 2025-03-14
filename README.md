@@ -37,21 +37,18 @@ Finally, Employee has a one-to-many relationship with the Sales Transaction enti
 
 
 ## Queries:
-1. Query 1: Heisman Odds
+1. Query 1: Heisman Odds. 
 The Heisman Odds are betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy. This query identifies top non-senior players based on total yards and touchdowns to help predict the best Heisman Trophy candidates to bet on for next season. Additionally. it highlights rising stars with standout performances.
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/a2d33dec-a51b-416d-b2f9-269abfadfb81" />
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/c73c9138-037f-4c48-9a4f-c96d47387883" />
 
-2. Query #2: Potentials of Coaches
-Ranks coaches by win percentage, calculated from total number of wins divided by total number of games (wins + loses). Identifies coaches that possess strong leadership skills and winning track records to help bettors make smarter wagers on game outcomes.
+2. Query #2: Potentials of Coaches.
+The query ranks coaches by winning percentage, which is calculated from total number of wins divided by total number of games (wins + loses). In doing so, it identifies coaches that possess strong leadership skills and winning track records to help bettors make smarter wagers on game outcomes.
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/a63399bd-14b3-4bf1-be2f-92057f130f6a" />
 <img width="624" alt="image" src="https://github.com/user-attachments/assets/ecfe668e-10fc-4301-bfe0-5acc42ad5c78" />
 
-3. Query #3: Best Offensive Teams
-   Ranks teams based on the total touchdowns scored by their players
-Total touchdowns are a strong indicator of offensive strength; the highest-ranked teams in this result likely have the most productive offenses
-Ensures the best teams appear at the top
-Sums touchdowns from individual players to reflect which teams have standout offensive players
+3. Query #3: Best Offensive Teams.
+Total touchdowns are a strong indicator of offensive strength; the highest-ranked teams in this result likely have the most productive offenses. The query ranks teams based on the total touchdowns scored by their players to reflect which teams have standout offensive players, ensuring the best teams to appear at the top of the query result. 
 ![image](https://github.com/user-attachments/assets/c1bff08b-2828-4c19-a67c-bee631dafc36)
 ![image](https://github.com/user-attachments/assets/a8b6017e-c509-4e3f-a0fb-18dc89af5e85)
 
