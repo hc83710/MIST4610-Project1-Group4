@@ -39,7 +39,7 @@ The playerstats entity tracks individual player performance metrics, such as tot
 
 ## Queries:
 1. Query 1: Heisman Odds. 
-The Heisman Odds are betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy. This query identifies top non-senior players based on total yards and touchdowns to help predict the best Heisman Trophy candidates to bet on for next season. Additionally, it highlights rising stars with standout performances.
+The Heisman Odds are betting odds assigned to outstanding college players who are in contention to win the annual Heisman Trophy. This query identifies top non-senior players based on total yards and touchdowns to help predict the best Heisman Trophy candidates to bet on for next season. Additionally, it highlights rising stars with standout performances.
 
 ![Query1](https://github.com/user-attachments/assets/a2d33dec-a51b-416d-b2f9-269abfadfb81)
 ![Query1](https://github.com/user-attachments/assets/c73c9138-037f-4c48-9a4f-c96d47387883)
