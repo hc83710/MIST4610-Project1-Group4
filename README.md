@@ -1,4 +1,4 @@
-# MIST4610-Project1-Group4
+# MIST4610-Project1-Arjmandi'sAssailants
 
 ## Team Name: 
 61608 Group 4
