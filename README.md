@@ -86,6 +86,10 @@ The query calculates the total number of wins per conference by summing up the w
 9. Query #9:
 ![Query9](https://github.com/user-attachments/assets/ae5eb914-7a5f-4191-8435-cadf8e0643da)
 
+10. Query #10: Heaviest Teams (Average Player Weight by Team)
+This query finds teams with the heaviest average player weight, which can be useful for betting on games where size and strength might be a factor—like in run-heavy offenses or defensive battles.
+
+
    
 
 ## Database information:
