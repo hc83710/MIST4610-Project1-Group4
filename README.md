@@ -1,7 +1,7 @@
 # MIST4610-Project1-Arjmandi'sAssailants
 
 ## Team Name: 
-61608 Group 4
+61608 Arjmandi's Assailants
 
 ## Team Members:
 1. An, Ben [@benan03](https://github.com/benan03)
