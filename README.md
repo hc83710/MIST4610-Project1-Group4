@@ -85,23 +85,23 @@ The query returns the total wins and losses for every team in the last season, r
 The query calculates the total number of wins per conference by summing up the wins of all teams in each conference. Teams from high-win conferences typically face tougher competition, affecting point spreads and totals.
 
 
-![Query 8 Output](https://github.com/user-attachments/assets/c63b2a06-21ad-416d-a4a6-96a55ed50859)
-![Query 8 Syntax](https://github.com/user-attachments/assets/a4e58a12-bf88-490d-9342-88ee43330cc4)
+![Query8](https://github.com/user-attachments/assets/c63b2a06-21ad-416d-a4a6-96a55ed50859)
+![Query8](https://github.com/user-attachments/assets/a4e58a12-bf88-490d-9342-88ee43330cc4)
 
 
 
 9. Query #9: List of Players and Their Positions.
 10. This query lists all players along with their positions.This gives a quick reference for identifying players and their roles in the team.
 
-![Query 9 Output](https://github.com/user-attachments/assets/3d9f7e4f-e12a-49f6-9d1a-771ff178c754)
-![Query 9 Syntax](https://github.com/user-attachments/assets/019d99c8-9552-4ad4-95e9-147bdbcc0536)
+![Query9](https://github.com/user-attachments/assets/3d9f7e4f-e12a-49f6-9d1a-771ff178c754)
+![Query9](https://github.com/user-attachments/assets/019d99c8-9552-4ad4-95e9-147bdbcc0536)
 
 
 10. Query #10: Heaviest Teams (Average Player Weight by Team). 
 This query finds teams with the heaviest average player weight, which can be useful for betting on games where size and strength might be a factor—like in run-heavy offenses or defensive battles.
 
-![Query 10 Output](https://github.com/user-attachments/assets/087b0c0c-7a87-4f0f-919a-55fc8c98f8b3)
-![Query 10 Syntax](https://github.com/user-attachments/assets/e4664a1c-eee8-459c-b09a-91ec40e411b9)
+![Query10](https://github.com/user-attachments/assets/087b0c0c-7a87-4f0f-919a-55fc8c98f8b3)
+![Query10](https://github.com/user-attachments/assets/e4664a1c-eee8-459c-b09a-91ec40e411b9)
 
 
 
