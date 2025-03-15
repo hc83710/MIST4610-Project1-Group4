@@ -10,6 +10,7 @@
 4. Cho, Nick [@nichooo4](https://github.com/nichooo4)
 5. Shields, David [@DubNation44](https://github.com/DubNation44)
 
+
 ## Problem Description:
 Our database system is designed to support a sports betting platform where users can analyze statistics before placing wagers on teams or players. Utilizing advantages of data and information systems, we replace the uncertainty of gut feeling with objective, accurate, informative, and integrated tables for bettors to visualize waging factors. The database system has the ability to track and visualize relationships between teams, coaches, conferences, games, players, and players' statistics to better apply to winning money via sports bets. Examples of ways to achieve this function include: 1. calculates and presents betting odds based on player statistics, 2. comparisons on team performances to conclude conference standings, and 3. tailored betting (e.g. Best offensive teams)
 
@@ -106,7 +107,7 @@ This query finds teams with the heaviest average player weight, which can be use
    
 
 ## Database information:
-![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
+![Queries](https://github.com/user-attachments/assets/53cb04eb-ab5f-449e-86e8-470da34bd574)
 Name of the database: ha_group4_crn61608
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
