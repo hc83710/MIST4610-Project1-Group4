@@ -109,7 +109,8 @@ This query finds teams with the heaviest average player weight, which can be use
    
 
 ## Database information:
-![Queries](https://github.com/user-attachments/assets/53cb04eb-ab5f-449e-86e8-470da34bd574)
+![Queries](https://github.com/user-attachments/assets/bd33b760-d115-4961-997b-85f931a547bf)
+
 Name of the database: ha_group4_crn61608
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
