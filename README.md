@@ -82,14 +82,16 @@ The query returns the total wins and losses for every team in the last season, r
 
 8. Query #8: Finding Conferences with the Most Total Wins Across All Teams
 The query calculates the total number of wins per conference by summing up the wins of all teams in each conference. Teams from high-win conferences typically face tougher competition, affecting point spreads and totals.
+
 ![Query 8 Syntax](https://github.com/user-attachments/assets/a4e58a12-bf88-490d-9342-88ee43330cc4)
 ![Query 8 Output](https://github.com/user-attachments/assets/c63b2a06-21ad-416d-a4a6-96a55ed50859)
 
 
-10. Query #9:
+9. Query #9:
 ![Query9](https://github.com/user-attachments/assets/ae5eb914-7a5f-4191-8435-cadf8e0643da)
 
-11. Query #10: Heaviest Teams (Average Player Weight by Team)
+10. Query #10: Heaviest Teams (Average Player Weight by Team)
+
 This query finds teams with the heaviest average player weight, which can be useful for betting on games where size and strength might be a factor—like in run-heavy offenses or defensive battles.
 ![Query 10 Syntax](https://github.com/user-attachments/assets/e4664a1c-eee8-459c-b09a-91ec40e411b9)
 ![Query 10 Output](https://github.com/user-attachments/assets/087b0c0c-7a87-4f0f-919a-55fc8c98f8b3)
